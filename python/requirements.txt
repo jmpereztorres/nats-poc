@@ -2,5 +2,5 @@ asyncio-nats-client==0.7.0
 grpcio==1.13.0
 grpcio-tools==1.13.0
 protobuf==3.6.0
-redis==2.10.6
+redis==4.5.3
 six==1.11.0
